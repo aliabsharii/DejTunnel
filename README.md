@@ -62,7 +62,7 @@ Installation is designed to be as simple as possible. You just need a fresh serv
 
 2.  Download the installation script:
     ```bash
-    wget -q -O /root/DejTunnel.sh https://raw.githubusercontent.com/eylandoo/DejTunnel/main/DejTunnel.sh && chmod +x /root/DejTunnel.sh && /root/DejTunnel.sh
+    wget -q -O /root/DejTunnel.sh https://raw.githubusercontent.com/aliabsharii/DejTunnel/main/DejTunnel.sh && chmod +x /root/DejTunnel.sh && /root/DejTunnel.sh
     ```
 
 The script will launch an interactive menu. Select **"1) Install DejTunnel"**. You will be prompted to enter the necessary configuration details:
